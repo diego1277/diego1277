@@ -1,6 +1,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-oliveira-09334135" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/diego-oliveira-09334135" height="25" width="110" /></a>
+<a href="https://www.linkedin.com/in/diego-oliveira-09334135" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="diego-oliveira-09334135" height="25" width="110" /></a>
 <a href="https://www.instagram.com/diego_dso12/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/diego_dso12/" height="25" width="110" /></a>
 </p>
 
